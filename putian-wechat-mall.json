@@ -2,7 +2,8 @@
   "title": "十年品控，只做天花板",
   "notice": "十年口碑老字号，明码标价，童叟无欺",
   "summary": "精挑细选",
-  "video": "https://cdn.jsdelivr.net/gh/jingyunkeji/data/video.mp4",
+  "video": "https://mall4j-data.alin.run/video.mp4",
   "wechat": "GR888888Hm",
-  "wechatImage": "https://cdn.jsdelivr.net/gh/jingyunkeji/data/wechat.jpg"
+  "wechatImage": "https://mall4j-data.alin.run/wechat.jpg",
+  "wechatShow": false
 }
